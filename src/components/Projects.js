@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {
   Box, Container, Typography, Card, CardContent, CardActions,
-  Grid, Chip, Button, IconButton,
+  Grid, Chip, Button,
 } from '@mui/material';
 import { motion, AnimatePresence } from 'framer-motion';
 import GitHubIcon from '@mui/icons-material/GitHub';

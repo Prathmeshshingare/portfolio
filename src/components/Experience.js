@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  Box, Container, Typography, Card, CardContent, Grid, Chip,
+  Box, Container, Typography, Card, CardContent, Chip,
 } from '@mui/material';
 import {
   Timeline, TimelineItem, TimelineSeparator, TimelineConnector,

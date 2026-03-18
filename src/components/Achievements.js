@@ -3,7 +3,6 @@ import {
   Box, Container, Typography, Card, CardContent, Grid, LinearProgress,
 } from '@mui/material';
 import { motion } from 'framer-motion';
-import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 
 const achievements = [
   {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
   Box, Container, Typography, TextField, Button, Grid,
-  Card, CardContent, IconButton, Snackbar, Alert, CircularProgress, Chip,
+  Card, CardContent, IconButton, Snackbar, Alert, CircularProgress,
 } from '@mui/material';
 import { motion } from 'framer-motion';
 import EmailIcon from '@mui/icons-material/Email';
